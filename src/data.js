@@ -1,0 +1,32 @@
+export const products =[
+    {
+        id:1,
+        img:'https://i.pinimg.com/564x/d0/0d/7e/d00d7e5283fe55c03ab1b3f7da4dfd6e.jpg',
+        link:''
+    },
+    {
+        id:2,
+        img:'https://i.pinimg.com/236x/fd/23/eb/fd23ebcba3afb799f85322946158f6e0.jpg',
+        link:''
+    },
+    {
+        id:3,
+        img:'https://i.pinimg.com/564x/51/0f/ad/510fad7ac4829296ea029b69deea4319.jpg',
+        link:''
+    },
+    {
+        id:4,
+        img:'https://i.pinimg.com/564x/ed/5f/3b/ed5f3b90205425f23f612ca2645e4e7a.jpg',
+        link:''
+    },
+    {
+        id:5,
+        img:'https://i.pinimg.com/236x/d5/0d/11/d50d119f37db6aa415e20302843c0566.jpg',
+        link:''
+    },
+    {
+        id:6,
+        img:'https://i.pinimg.com/236x/66/78/45/6678456cf6e0659804393bbbed5a75c6.jpg',
+        link:''
+    }
+]
